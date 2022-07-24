@@ -1,0 +1,12 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "task"
+include ':app'
+
+include ':unityLibrary'
+project(':unityLibrary').projectDir= new File('..\\UnityLibrary\\unityLibrary')

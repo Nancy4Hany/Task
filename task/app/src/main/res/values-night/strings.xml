@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_3d_view">3D View!</string>
+    <string name="click_to_view">Click to view</string>
+
+    <string name="game_view_content_description">Game View</string>
+</resources>
